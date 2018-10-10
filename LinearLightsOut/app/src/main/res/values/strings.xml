@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">LinearLightOut</string>
+    <string name="app_name">Linear Light Out</string>
     <string name="new_game">New Game</string>
     <string name="button_match">Make the Buttons Match</string>
-    <string name="move_taken">Move taken so far %d</string>
-    <string name="moves_taken">Moves taken so far %d</string>
+    <string name="move_taken">Move taken  %d</string>
+    <string name="moves_taken">Moves taken  %d</string>
     <string name="you_win">You Win!!!</string>
 
 </resources>
